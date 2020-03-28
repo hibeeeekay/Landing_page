@@ -1,7 +1,7 @@
 body{
   height:100%;
   width:auto;
-  color:white;
+  color:black;
   }
 .container{
   display:block;
@@ -15,9 +15,7 @@ height:450px;
 margin-top:none;
 text-align:center;
 color:black;
-background-color:black;
 background-postion:center;
-background-attachment:fixed;
 }
 
 .flex4{
@@ -42,7 +40,7 @@ background-color:white;
 font-size:20px;
 }
 footer{
- color:black;
+ color:white;
  font-size:20px;
 }
 @media screen and (max-width:480px){
