@@ -10,7 +10,7 @@ body{
   }
 #flex2{
 background-image:url("https://hibeeeekay.github.io/Landing_page/images (12).jpeg");
-repeat:no;
+background-repeat:no-repeat;
 height:450px; 
 margin-top:none;
 text-align:center;
