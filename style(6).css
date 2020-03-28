@@ -2,6 +2,7 @@ body{
   height:100%;
   width:auto;
   color:black;
+  
   }
 .container{
   display:block;
@@ -15,7 +16,7 @@ height:450px;
 margin-top:none;
 text-align:center;
 color:black;
-background-postion:center;
+background-postion-y:center;
 }
 
 .flex4{
@@ -55,7 +56,7 @@ footer{
        height: 300px;
        width:100%;
        padding-top:20%;
-       color:;
+       
     }
     h1{
       padding-top:0%;
