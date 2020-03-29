@@ -13,7 +13,6 @@ body{
   }
 #flex2{
 background-image:url("https://hibeeeekay.github.io/Landing_page/images (12).jpeg");
-background-repeat:no-repeat;
 height:450px; 
 margin-top:none;
 text-align:center;
@@ -57,7 +56,7 @@ footer{
     #flex2{
        height: 300px;
        width:100%;
-       padding-top:15%;
+       padding-top:10%;
        padding-left
        
        
