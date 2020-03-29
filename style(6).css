@@ -2,6 +2,7 @@ body{
   height:100%;
   width:auto;
   color:black;
+  background-color:black;
   
   }
 .container{
@@ -16,7 +17,8 @@ height:450px;
 margin-top:none;
 text-align:center;
 color:black;
-background-postion-y:center;
+background-attachment:fixed;
+background-position:50% 50%;
 }
 
 .flex4{
