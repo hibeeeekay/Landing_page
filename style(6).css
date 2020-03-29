@@ -7,8 +7,8 @@ body{
   }
 .container{
   display:block;
-  background-color:white;
-background-color:black;
+  background-color:black;
+  
   
   }
 #flex2{
@@ -36,12 +36,12 @@ h2{
 font-family:cursive;
 }
 button{
-margin-top:20%;
+margin-top:30%;
 padding:12px 80px;
 border-radius:18px;
 border:0px;
 background-color:white;
-font-size:20px;
+font-size:24px;
 }
 footer{
  color:white;
