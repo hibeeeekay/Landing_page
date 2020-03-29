@@ -8,6 +8,7 @@ body{
 .container{
   display:block;
   background-color:white;
+background-color:black;
   
   }
 #flex2{
@@ -19,7 +20,6 @@ text-align:center;
 color:black;
 background-attachment:fixed;
 background-position:50% 50%;
-background-color:black;
 }
 
 .flex4{
