@@ -18,8 +18,7 @@ height:450px;
 margin-top:none;
 text-align:center;
 color:black;
-background-attachment:fixed;
-background-position:50% 50%;
+
 }
 
 .flex4{
@@ -58,8 +57,9 @@ footer{
     #flex2{
        height: 300px;
        width:100%;
-       padding-top:20%;
-       background-attachment:fixed;
+       padding-top:15%;
+       padding-left
+       
        
     }
     h1{
@@ -86,4 +86,16 @@ footer{
     body{
     width: 100%;
     height: auto;
-    }
+   }
+
+#flex2{
+background-image:url("https://hibeeeekay.github.io/Landing_page/images (12).jpeg");
+background-repeat:no-repeat;
+height:450px; 
+margin-top:none;
+text-align:center;
+color:black;
+background-attachment:fixed;
+background-position:50% 50%;
+ }
+}
